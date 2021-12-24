@@ -1,0 +1,10 @@
+C:\GitProjects\IndivOne\bin\Debug\IndivOne.exe.config
+C:\GitProjects\IndivOne\bin\Debug\IndivOne.exe
+C:\GitProjects\IndivOne\bin\Debug\IndivOne.pdb
+C:\GitProjects\IndivOne\obj\Debug\IndivOne.csproj.AssemblyReference.cache
+C:\GitProjects\IndivOne\obj\Debug\IndivOne.Form1.resources
+C:\GitProjects\IndivOne\obj\Debug\IndivOne.Properties.Resources.resources
+C:\GitProjects\IndivOne\obj\Debug\IndivOne.csproj.GenerateResource.cache
+C:\GitProjects\IndivOne\obj\Debug\IndivOne.csproj.CoreCompileInputs.cache
+C:\GitProjects\IndivOne\obj\Debug\IndivOne.exe
+C:\GitProjects\IndivOne\obj\Debug\IndivOne.pdb
